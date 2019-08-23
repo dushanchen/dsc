@@ -1,2 +1,2 @@
 # dsc
-Some utils
+Some utils for web development
